@@ -9,10 +9,10 @@ public class Solution {
     }
 
     public static class Orange {
-        public static int orangePrice = 10;
+        public static int orangePrice = 0;
 
         public void addPrice(int price) {
-            orangePrice += price ;
+            orangePrice += price;
         }
     }
 }
